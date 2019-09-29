@@ -1,0 +1,11 @@
+|sentence_a|sentence_b|embedding_similarity|bow_similarity
+0|Hi, how are you?|Hey, whats up?|0.8335203528404236|0.0
+1|Hi, how are you?|Hello, how are things?|0.9307847619056702|0.3942756920707005
+2|Hi, how are you?|Three bikers stop in town.|0.6184003949165344|0.0
+3|Hi, how are you?|A group of men on motorcycles arrive.|0.6473364233970642|0.0
+4|Hey, whats up?|Hello, how are things?|0.8165990114212036|0.0
+5|Hey, whats up?|Three bikers stop in town.|0.619179904460907|0.0
+6|Hey, whats up?|A group of men on motorcycles arrive.|0.6293466687202454|0.0
+7|Hello, how are things?|Three bikers stop in town.|0.6441522836685181|0.0
+8|Hello, how are things?|A group of men on motorcycles arrive.|0.6623995900154114|0.0
+9|Three bikers stop in town.|A group of men on motorcycles arrive.|0.7998568415641785|0.0

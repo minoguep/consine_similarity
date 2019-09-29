@@ -1,0 +1,6 @@
+sentence_id|sentence_text
+S00|Hi, how are you?
+S01|Hey, whats up?
+S02|Hello, how are things?
+S03|Three bikers stop in town.
+S04|A group of men on motorcycles arrive.
