@@ -127,6 +127,3 @@ combined_output.columns = ['sentence_a', 'sentence_b', 'embedding_similarity', '
 combined_output.to_csv('./output/similarity_output.txt', sep='|')
 
 print('Done!')
-
-sentences = ['Hi, how are you?', 'Hey what\'s up?']
-sentences_df = pd.DataFrame({'sentences':sentences})
